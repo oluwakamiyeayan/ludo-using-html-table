@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.middle{
+    background-image: url(images/DICE.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: ;
+}
+.topleft{
+    background-image: url(images/Sadio.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.topright{
+    background-image: url(images/PLAYER.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.bottomleft{
+    background-image: url(images/Mane.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.bottomright{
+    background-image: url(images/Ronald.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.table{
+   text-align: center;
+}
